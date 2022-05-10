@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @helenamarkus14
-- 👀 I’m interested in: food, cats, and the mountains
+- 👋 Hi, I’m @helenamarkus14 located in Colorado
+- 👀 I’m interested in: clean code and cats.
 - 🌱 I’m currently learning: full stack development
 - 📫 How to reach me: helenamarkus14@gmail.com
 
